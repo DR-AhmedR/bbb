@@ -1,0 +1,9 @@
+DISCLAIMER: Use this at your own risk.
+
+We are not affiliated with GoodGameStudios
+
+What you need to do to use:
+1. get items_${VER}.json from the game client and place it within GGE-BOT folder as items.json
+2. npx playwright install
+3. npm install
+4. configure ggeConfig.json
